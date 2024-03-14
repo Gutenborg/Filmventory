@@ -1,5 +1,6 @@
 A film lookup application that uses The Movie Database API. You can browse and search movies and view a movie's details. This project uses React, Material UI, TypeScript, React Router, and the TMDB API.
 
+[Check Out the Live Demo!](https://filmventory.vercel.app)
 
 Run `npm install` to install dependencies.
 
